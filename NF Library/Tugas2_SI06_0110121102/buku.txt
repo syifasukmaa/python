@@ -1,0 +1,5 @@
+LEE914,Memasak Bersama Leetuk,Leeteuk,2
+AIH281,Jago Ngoding Dalam Semalam,Ai Haibara,2
+GUN992,Dasar-Dasar Pemrograman Python,Gundala,3
+DIP216,Ayat Ayat Cinta,Di Pandu,4
+LAU784,Surga Dirindukan,Laudya,2

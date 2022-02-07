@@ -1,0 +1,3 @@
+LIB829,Black Panther,1
+LIB225,Ran Mouri,1
+LIB131,Naruto,2
